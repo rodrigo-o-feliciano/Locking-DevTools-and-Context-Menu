@@ -1,24 +1,24 @@
 # Locking-DevTools-and-Context-Menu
 
-## Funcionalidades
+## Features
 
-- Bloqueia o acesso ao DevTools do navegador (desktop).
-- Bloqueia o acesso ao Menu de Contexto do navegador (usado para impedir o acesso ao Salvar Como).
+- Blocks access to the browser's (desktop) DevTools.
+- Blocks access to the browser's Context Menu (used to prevent access to Save As).
 
-## Como usar
+## How to Use
 
-1. Faça o link deste documento com o seu HTML.
-2. Uma vez instalado, o acesso ao DevTools e ao Menu de Contexto será bloqueado automaticamente.
-3. Personalize o as labels e redirecionamentos
+1. Link this document with your HTML.
+2. Once installed, access to the DevTools and Context Menu will be automatically blocked.
+3. Customize the labels and redirects.
 
-## Contribuição
+## Contribution
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests para melhorar este aplicativo.
+Contributions are welcome! Feel free to send pull requests to improve this application.
 
-## Suporte
+## Support
 
-Se você tiver alguma dúvida, problema ou sugestão, por favor, abra uma issue neste repositório.
+If you have any questions, issues, or suggestions, please open an issue in this repository.
 
-## Licença
+## License
 
-Este aplicativo é distribuído sob a Licença MIT. Para mais informações, leia o arquivo `LICENSE` incluído neste repositório.
+This application is distributed under the MIT License. For more information, please read the `LICENSE` file included in this repository.
